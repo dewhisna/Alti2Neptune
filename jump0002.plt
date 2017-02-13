@@ -6,7 +6,7 @@ set ytics nomirror 0.0,1000.0
 set ylabel "Altitude (ft)"
 set y2tics autofreq
 set y2label "Speed (mph)"
-set linestyle 1 lt 8 pt 3
+set style line 1 lt 8 pt 3
 set label 1 "Exit" at 33.000000,12670.604080
 set label 2 "Deploy" at 79.250000,4281.496200
 plot '-' title "Altitude" with lines,  '-' axes x1y2 title "TASpeed" with lines,  '-' axes x1y2 title "SASpeed" with lines,  '-' notitle with points ls 1

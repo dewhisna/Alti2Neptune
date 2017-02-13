@@ -740,7 +740,7 @@ void PrintGnuPlot(FILE *pInFile, int nDumpType, unsigned long nJumpNumber, const
     }
 
     if ((bSingleJump) && (bAltPlot)) {
-        printf("set linestyle 1 lt 8 pt 3\n");
+        printf("set style line 1 lt 8 pt 3\n");
         printf("set label 1 \"Exit\" at %f,%f\n",
                     nFreefallStartTime + 5.0, nExitAltitude);
         printf("set label 2 \"Deploy\" at %f,%f\n",
