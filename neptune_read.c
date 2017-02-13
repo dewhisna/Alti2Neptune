@@ -47,10 +47,6 @@
 
 #include "neptune_rec.h"
 
-/* Prototype for lround and round -- for some reason they aren't included in math.h ?? */
-long int lround(double x);
-double round(double x);
-
 /* Defines */
 //#define EXTRA_DEBUG 1
 #define VERSION 100

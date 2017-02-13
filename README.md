@@ -20,6 +20,10 @@ Remember: "Those who don't jump will never fly." (Leena Ahmad Almashat)
 
 ![Example Jump Plot](./jump0002.jpg)
 
+This example plot was created by running `neptune_dump` with:
+```
+./neptune_dump 2 p ats "Perris Valley Skydiving" jump0002a.nep >jump0002.plt
+```
 
 License
 -------
