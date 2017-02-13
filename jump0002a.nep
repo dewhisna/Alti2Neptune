@@ -1,0 +1,135 @@
+#NEPTUNE
+!
+! Neptune Altimeter Jump Data
+!
+! Neptune Software v2.0.25
+! Neptune Serial No: D27873
+!
+! Jump Summary:
+!    Number Jump Records   = 1
+!    Number Jump Profiles  = 1
+!    Total Jumps Made      = 2
+!    Total FreeFall Time   = 96 sec
+!    Last Jump Number      = 2
+!
+! Jump Record -- Jump Number 2:
+!    Jump Date/Time        = 03/27/04  13:25
+!    Jump Type             = Tandem
+!    Data Version          = 2.0.25
+!    Data SW Type          = 0
+!    Max FF Speed (TAS)    = 163.3 mph
+!    12K FF Speed (TAS)    = 85.0 mph
+!     9K FF Speed (TAS)    = 132.0 mph
+!     6K FF Speed (TAS)    = 120.8 mph
+!     3K FF Speed (TAS)    = 13.4 mph
+!    Avg FF Speed (TAS)    = 125.3 mph
+!    Exit Altitude (AGL)   = 12808 ft
+!    Deploy Altitude (AGL) = 4304 ft
+!    Freefall Time         = 46 sec
+!
+! Jump Profile -- Jump Number 2:
+!    Ground Altitude (MSL) = 1319 ft
+!    Exit Altitude (AGL)   = 12808 ft
+!    Freefall Start Time   = 28.00 sec
+!    Canopy Start Time     = 74.25 sec
+!
+0D 00 00 20 19 44 32 37 38 37 33 20 20 20 E8 
+0C 01 01 00 01 02 00 60 00 00 00 01 00 66 
+17 02 01 00 19 0D 1B 03 04 0A 49 26 3B 36 06 40 0F 20 05 10 19 00 2E 00 06 
+0B 05 01 00 92 01 40 0F 70 00 29 01 82 
+05 06 4D 0F 00 00 62 
+05 06 4D 0F 10 00 72 
+05 06 4B 0F 20 00 80 
+05 06 45 0F 30 00 8A 
+05 06 42 0F 40 00 97 
+05 06 3F 0F 50 00 A4 
+05 06 3E 0F 60 00 B3 
+05 06 16 0F 70 00 9B 
+05 06 CD 0E 7A 00 5B 
+04 04 05 7A 00 83 
+05 06 A0 0E 7F 00 33 
+05 06 76 0E 83 00 0D 
+05 06 4A 0E 87 00 E5 
+05 06 16 0E 8C 00 B6 
+05 06 E4 0D 90 00 87 
+05 06 AE 0D 94 00 55 
+05 06 83 0D 97 00 2D 
+05 06 54 0D 9A 00 01 
+05 06 25 0D 9D 00 D5 
+05 06 ED 0C A1 00 A0 
+05 06 BD 0C A4 00 73 
+05 06 91 0C A7 00 4A 
+05 06 66 0C AA 00 22 
+05 06 3C 0C AD 00 FB 
+05 06 0F 0C B0 00 D1 
+05 06 E3 0B B3 00 A7 
+05 06 B2 0B B6 00 79 
+05 06 87 0B B8 00 50 
+05 06 50 0B BB 00 1C 
+05 06 21 0B BE 00 F0 
+05 06 F4 0A C1 00 C5 
+05 06 BD 0A C4 00 91 
+05 06 93 0A C8 00 6B 
+05 06 62 0A CC 00 3E 
+05 06 32 0A CF 00 11 
+05 06 06 0A D2 00 E8 
+05 06 CF 09 D6 00 B4 
+05 06 A2 09 D9 00 8A 
+05 06 78 09 DC 00 63 
+05 06 42 09 E0 00 31 
+05 06 0F 09 E4 00 02 
+05 06 E4 08 E7 00 D9 
+05 06 B6 08 EA 00 AE 
+05 06 7F 08 EE 00 7B 
+05 06 4E 08 F1 00 4D 
+05 06 1E 08 F4 00 20 
+05 06 F0 07 F7 00 F4 
+05 06 C6 07 FA 00 CD 
+05 06 9D 07 FD 00 A7 
+05 06 69 07 01 01 78 
+05 06 3C 07 05 01 4F 
+05 06 09 07 09 01 20 
+05 06 D3 06 0C 01 EC 
+05 06 9E 06 10 01 BB 
+05 06 6F 06 13 01 8F 
+05 06 46 06 15 01 68 
+05 06 0D 06 18 01 32 
+05 06 DF 05 1B 01 06 
+05 06 AA 05 1E 01 D4 
+05 06 71 05 21 01 9E 
+05 06 47 05 24 01 77 
+05 06 19 05 29 01 4E 
+05 06 EE 04 32 01 2B 
+05 06 C5 04 4A 01 1A 
+04 04 06 4A 01 55 
+05 06 9C 04 6E 01 15 
+05 06 72 04 94 01 11 
+05 06 49 04 B9 01 0D 
+05 06 20 04 D9 01 04 
+05 06 F7 03 F2 01 F3 
+05 06 CE 03 0D 02 E6 
+05 06 A5 03 2E 02 DE 
+05 06 7A 03 40 02 C5 
+05 06 51 03 53 02 AF 
+05 06 28 03 73 02 A6 
+05 06 FE 02 95 02 9D 
+05 06 D5 02 B3 02 92 
+05 06 AB 02 D3 02 88 
+05 06 82 02 F3 02 7F 
+05 06 58 02 1E 03 81 
+05 06 2F 02 39 03 73 
+05 06 06 02 62 03 73 
+05 06 DB 01 89 03 6E 
+05 06 B1 01 A9 03 64 
+05 06 88 01 CA 03 5C 
+05 06 5E 01 E7 03 4F 
+05 06 35 01 10 04 50 
+05 06 0B 01 37 04 4D 
+05 06 E1 00 64 04 4F 
+05 06 B6 00 91 04 51 
+05 06 8D 00 AF 04 46 
+05 06 64 00 D8 04 46 
+05 06 3B 00 05 05 4B 
+05 06 11 00 23 05 3F 
+05 06 00 00 65 05 70 
+01 03 03 
